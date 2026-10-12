@@ -1,0 +1,23 @@
+{
+  "name": "levantamiento-info",
+  "version": "1.0.0",
+  "description": "Sistema de levantamiento de información para clientes",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "deploy": "vercel --prod",
+    "deploy:dev": "vercel"
+  },
+  "keywords": [
+    "levantamiento",
+    "informacion",
+    "supabase",
+    "formulario",
+    "cliente"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
